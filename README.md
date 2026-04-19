@@ -10,7 +10,7 @@ $readmeContent = @"
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true&hide_rank=true" alt="Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula" alt="Languages" />
 </p>
