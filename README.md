@@ -1,10 +1,10 @@
 $readmeContent = @"
 # 👋 Hi, I'm SakthiS-oss
 
-### 🚀 About Me
-- 🔭 I’m currently building open-source projects.
-- 💻 Passionate about Backend Architecture and Automation.
-- 📚 Learning more about System Design every day.
+### 🛡️ Cybersecurity & 🤖 Hardware Enthusiast
+- 🔭 I’m currently exploring **Cybersecurity** frameworks and pen-testing.
+- 📟 Working on **Arduino** and IoT automation projects.
+- 💻 Passionate about low-level programming and system security.
 
 ---
 
@@ -17,17 +17,16 @@ $readmeContent = @"
 
 ---
 
-### 🎨 Interests & Tech Stack
-| Category | Interests | Tech Stack |
-| :--- | :--- | :--- |
-| **Development** | Open Source, CLI Tools | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
-| **Infrastructure** | Linux, Docker, CI/CD | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-| **Personal** | Photography, Coffee | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+### 🛠️ Hardware & Security Stack
+| Category | Tools & Interests |
+| :--- | :--- |
+| **Cybersecurity** | ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=red) |
+| **Electronics** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) |
+| **Embedded** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 
-### 📈 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakthiS-oss&theme=dracula" alt="Streak" />
-</p>
+### 📂 Featured Repositories
+> [!TIP]
+> Check out my latest repositories below for Arduino sketches and security scripts!
 
 ---
 *Generated via PowerShell ⚡*
