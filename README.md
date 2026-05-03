@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SakthiS-oss
+# 👋 Hi, I'm Sakthi!
 
 ### 🐢 Computer Engineering @ University of Maryland
 **Specialization: Cybersecurity**
