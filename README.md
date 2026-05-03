@@ -3,19 +3,10 @@
 ### 🐢 Computer Engineering @ University of Maryland
 **Specialization: Cybersecurity**
 
-I’m a Maryland engineer focused on the intersection of secure infrastructure, intelligent systems, and scalable web development. I bridge the gap between low-level hardware and high-level software with a security-first mindset.
-
----
-
-### 🎨 Tech Stack & Expertise
-
-| Category | Tools & Competencies |
-| :--- | :--- |
-| **Security Operations** | ![GSEC](https://img.shields.io/badge/-GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GFACT-silver?style=flat-square) ![Network Defense](https://img.shields.io/badge/-Network_Defense-blue?style=flat-square) |
-| **Offensive Security** | ![NCL](https://img.shields.io/badge/-NCL-black?style=flat-square) ![picoCTF](https://img.shields.io/badge/-picoCTF-red?style=flat-square) ![Metasploit](https://img.shields.io/badge/-Metasploit-FF0000?logo=metasploit&logoColor=white) |
-| **ML & Intelligence** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| **Full-Stack Dev** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
-| **Systems & IoT** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) |
+- 🔭 **Focus:** Diving deep into Cybersecurity frameworks, network defense, and Machine Learning.
+- 💻 **Full-Stack:** Building secure, intelligent web applications from the database up.
+- 📟 **Hardware:** Developing IoT solutions and automation scripts using **Arduino** and ESP32.
+- 🎯 **Goal:** Creating open-source tools that bridge the gap between hardware, security, and AI.
 
 ---
 
@@ -25,6 +16,20 @@ I’m a Maryland engineer focused on the intersection of secure infrastructure, 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
+---
+
+### 🎨 Tech Stack & Expertise
+
+| Category | Tools & Competencies |
+| :--- | :--- |
+| **Cybersecurity** | ![GSEC](https://img.shields.io/badge/-GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GFACT-silver?style=flat-square) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) |
+| **Competitive Cyber**| ![NCL](https://img.shields.io/badge/-NCL-black?style=flat-square) ![picoCTF](https://img.shields.io/badge/-picoCTF-red?style=flat-square) ![Cyberstart](https://img.shields.io/badge/-Cyberstart-blue?style=flat-square) |
+| **Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **ML & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| **Electronics** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) |
+
+---
 
 ### 📈 Contribution Streak
 <p align="center">
