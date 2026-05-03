@@ -23,11 +23,11 @@
 
 | Category | Tools & Competencies |
 | :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) |
 | **Cybersecurity** | ![GSEC](https://img.shields.io/badge/-GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GFACT-silver?style=flat-square) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) |
 | **Competitive Cyber**| ![NCL](https://img.shields.io/badge/-NCL-black?style=flat-square) ![picoCTF](https://img.shields.io/badge/-picoCTF-red?style=flat-square) ![Cyberstart](https://img.shields.io/badge/-Cyberstart-blue?style=flat-square) |
-| **Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
-| **ML & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| **Electronics** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) |
+| **Development** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| **Systems & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) |
 
 ---
 
