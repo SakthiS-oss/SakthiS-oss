@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true&hide_rank=true" alt="SakthiS-oss Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula&count_private=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -45,4 +45,4 @@
   </a>
 </p>
 
-<p align="right">Last updated: 2026-05-02</p>
+<p align="right">Last updated: 2026-05-06</p>
