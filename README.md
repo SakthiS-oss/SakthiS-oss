@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true&hide_rank=true" alt="SakthiS-oss Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true&hide_rank=true&include_all_commits=true" alt="SakthiS-oss Stats" />
   <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula&count_private=true&hide_progress=false" alt="Top Languages" />
 </p>
