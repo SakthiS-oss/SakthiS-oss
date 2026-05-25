@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Sakthi!
 
-### 🐢 Computer Engineering @ University of Maryland
+## 🐢 Computer Engineering @ University of Maryland
 **Specialization: Cybersecurity**
+
+> A passionate Computer Engineering student bridging the gap between secure hardware infrastructure, network defense, and intelligent full-stack applications.
 
 - 🔭 **Focus:** Diving deep into Cybersecurity frameworks, network defense, and Machine Learning.
 - 💻 **Full-Stack:** Building secure, intelligent web applications from the database up.
@@ -10,16 +12,7 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true&hide_rank=true&include_all_commits=true" alt="SakthiS-oss Stats" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula&count_private=true&hide_progress=false" alt="Top Languages" />
-</p>
-
----
-
-### 🎨 Tech Stack & Expertise
+### 🛠️ Tech Stack & Expertise
 
 | Category | Tools & Competencies |
 | :--- | :--- |
@@ -30,6 +23,20 @@
 | **Systems & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) |
 
 ---
+
+### 🚀 Current Projects & Focus
+* 🛡️ **[Project Name]** - Building a secure IoT gateway utilizing ESP32 to monitor local network traffic anomalies.
+* 🤖 **[Project Name]** - Implementing ML-driven log analysis to detect early-stage privilege escalation patterns.
+* 🔧 **Open Source Contributing** - Contributing fixes and security patches to upstream firmware libraries.
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=SakthiS-oss&show_icons=true&theme=dracula&count_private=true&hide_rank=true&include_all_commits=true" alt="SakthiS-oss Stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula&count_private=true&hide_progress=false" alt="Top Languages" />
+</p>
 
 ### 📈 Contribution Streak
 <p align="center">
@@ -45,4 +52,4 @@
   </a>
 </p>
 
-<p align="right">Last updated: 2026-05-06</p>
+<p align="right">Last updated: 2026-05-25</p>
