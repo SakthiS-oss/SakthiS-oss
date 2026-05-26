@@ -25,8 +25,8 @@
 ---
 
 ### 🚀 Current Projects & Focus
-* 🛡️ **[Project Name]** - Building a secure IoT gateway utilizing ESP32 to monitor local network traffic anomalies.
-* 🤖 **[Project Name]** - Implementing ML-driven log analysis to detect early-stage privilege escalation patterns.
+* 🛡️ Building a secure IoT gateway utilizing ESP32 to monitor local network traffic anomalies.
+* 🤖 Implementing ML-driven log analysis to detect early-stage privilege escalation patterns.
 * 🔧 **Open Source Contributing** - Contributing fixes and security patches to upstream firmware libraries.
 
 ---
