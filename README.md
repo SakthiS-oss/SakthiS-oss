@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sakthi!
 
 ## 🐢 Computer Engineering @ University of Maryland
-**Specialization: Cybersecurity**
+**Specialization: Cybersecurity & Cloud Systems**
 
-> A passionate Computer Engineering student bridging the gap between secure hardware infrastructure, network defense, and intelligent full-stack applications.
+> Computer Engineering student bridging the gap between cloud architecture, embedded systems, network defense, and DevSecOps.
 
-- 🔭 **Focus:** Diving deep into Cybersecurity frameworks, network defense, and Machine Learning.
-- 💻 **Full-Stack:** Building secure, intelligent web applications from the database up.
-- 📟 **Hardware:** Developing IoT solutions and automation scripts using **Arduino** and ESP32.
-- 🎯 **Goal:** Creating open-source tools that bridge the gap between hardware, security, and AI.
+- 🔭 **Focus:** Cloud Security Engineering, Infrastructure as Code, and Hardware Security Boundaries.
+- ☁️ **Cloud & Infra:** Architecting secure, multi-cloud platforms using **AWS**, **Azure**, and **Terraform**.
+- 📟 **Hardware:** Developing air-gapped security tools, IoT gateways, and control loops using **Arduino** & **C++**.
+- 🎯 **Goal:** Building resilient, automated, and secure-by-default enterprise systems.
 
 ---
 
@@ -16,18 +16,17 @@
 
 | Category | Tools & Competencies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) |
-| **Cybersecurity** | ![GSEC](https://img.shields.io/badge/-GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GFACT-silver?style=flat-square) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) |
-| **Competitive Cyber**| ![NCL](https://img.shields.io/badge/-NCL-black?style=flat-square) ![picoCTF](https://img.shields.io/badge/-picoCTF-red?style=flat-square) ![Cyberstart](https://img.shields.io/badge/-Cyberstart-blue?style=flat-square) |
-| **Development** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| **Systems & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
+| **Certifications** | ![AWS SAA](https://img.shields.io/badge/-AWS_Solutions_Architect_Assoc-FF9900?logo=amazon-aws&logoColor=white) ![AZ-104](https://img.shields.io/badge/-Azure_AZ--104-0089D6?logo=microsoft-azure&logoColor=white) ![GSEC](https://img.shields.io/badge/-GIAC_GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GIAC_GFACT-silver?style=flat-square) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| **Security & Ops** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| **Competitions** | ![CTFs](https://img.shields.io/badge/-Augusta_CTF_1st_Place-gold?style=flat-square) ![NCL](https://img.shields.io/badge/-NCL_2nd_Place-silver?style=flat-square) ![Bitcamp](https://img.shields.io/badge/-Bitcamp_Track_Winner-red?style=flat-square) |
 
 ---
 
-### 🚀 Current Projects & Focus
-* 🛡️ Building a secure IoT gateway utilizing ESP32 to monitor local network traffic anomalies.
-* 🤖 Implementing ML-driven log analysis to detect early-stage privilege escalation patterns.
-* 🔧 **Open Source Contributing** - Contributing fixes and security patches to upstream firmware libraries.
+### 🚀 Highlighted Projects
+* 🔐 **[cryptX](https://github.com/SakthiS-oss/cryptX)** — Air-gapped hardware crypto wallet on Arduino featuring EEPROM physical zeroization and real-time MongoDB transaction velocity monitoring via Gemini LLM *(Bitcamp 2026 Track Winner)*.
+* 🧪 **[NukeSandbox](https://github.com/SakthiS-oss/NukeSandbox)** — Automated cloud-native malware triage platform deploying capability-dropped, read-only Docker containers to analyze untrusted payloads safely.
 
 ---
 
@@ -52,4 +51,4 @@
   </a>
 </p>
 
-<p align="right">Last updated: 2026-05-25</p>
+<p align="right">Last updated: 2026-08-10</p>
