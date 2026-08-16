@@ -20,7 +20,6 @@
 | **Certifications** | ![AWS SAA](https://img.shields.io/badge/-AWS_Solutions_Architect_Assoc-FF9900?logo=amazon-aws&logoColor=white) ![AZ-104](https://img.shields.io/badge/-Azure_AZ--104-0089D6?logo=microsoft-azure&logoColor=white) ![GSEC](https://img.shields.io/badge/-GIAC_GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GIAC_GFACT-silver?style=flat-square) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 | **Security & Ops** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-| **Competitions** | ![CTFs](https://img.shields.io/badge/-Augusta_CTF_1st_Place-gold?style=flat-square) ![NCL](https://img.shields.io/badge/-NCL_2nd_Place-silver?style=flat-square) ![Bitcamp](https://img.shields.io/badge/-Bitcamp_Track_Winner-red?style=flat-square) |
 
 ---
 
