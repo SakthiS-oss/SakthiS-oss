@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sakthi!
 
 ## 🐢 Computer Engineering @ University of Maryland
-**Specialization: Cybersecurity & Cloud Systems**
+**Specialization: Cybersecurity**
 
 > Computer Engineering student bridging the gap between cloud architecture, embedded systems, network defense, and DevSecOps.
 
