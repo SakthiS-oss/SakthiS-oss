@@ -3,29 +3,28 @@
 ## 🐢 Computer Engineering @ University of Maryland
 **Specialization: Cybersecurity**
 
-> Computer Engineering student bridging the gap between cloud architecture, embedded systems, network defense, and DevSecOps.
+> Computer engineering student building secure, automated systems, from the cloud down to the hardware.
 
-- 🔭 **Focus:** Cloud Security Engineering, Infrastructure as Code, and Hardware Security Boundaries.
-- ☁️ **Cloud & Infra:** Architecting secure, multi-cloud platforms using **AWS**, **Azure**, and **Terraform**.
-- 📟 **Hardware:** Developing air-gapped security tools, IoT gateways, and control loops using **Arduino** & **C++**.
-- 🎯 **Goal:** Building resilient, automated, and secure-by-default enterprise systems.
+- 🔭 **Interests:** DevSecOps, Cloud Security, Security Engineering, and Software Engineering
+- ☁️ **Building:** Secure cloud infrastructure with **AWS**, **Azure**, **Terraform**, and CI/CD pipelines
+- 📟 **Exploring:** Hardware and embedded systems, and how they shape security boundaries
+- 🎯 **Goal:** Resilient, secure-by-default systems that ship fast
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Technical Skills
 
-| Category | Tools & Competencies |
+| Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| **Certifications** | ![AWS SAA](https://img.shields.io/badge/-AWS_Solutions_Architect_Assoc-FF9900?logo=amazon-aws&logoColor=white) ![AZ-104](https://img.shields.io/badge/-Azure_AZ--104-0089D6?logo=microsoft-azure&logoColor=white) ![GSEC](https://img.shields.io/badge/-GIAC_GSEC-gold?style=flat-square) ![GFACT](https://img.shields.io/badge/-GIAC_GFACT-silver?style=flat-square) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| **Security & Ops** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4B5563) ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=white) |
+| **Dev Tools & AI** | ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?logo=googlegemini&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?logo=vercel&logoColor=white) ![NVIDIA VSS](https://img.shields.io/badge/-NVIDIA_VSS-76B900?logo=nvidia&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?logo=githubcopilot&logoColor=white) ![Kiro](https://img.shields.io/badge/-Kiro-7C3AED) |
 
 ---
 
 ### 🚀 Highlighted Projects
-* 🔐 **[cryptX](https://github.com/SakthiS-oss/cryptX)** — Air-gapped hardware crypto wallet on Arduino featuring EEPROM physical zeroization and real-time MongoDB transaction velocity monitoring via Gemini LLM *(Bitcamp 2026 Track Winner)*.
-* 🧪 **[NukeSandbox](https://github.com/SakthiS-oss/NukeSandbox)** — Automated cloud-native malware triage platform deploying capability-dropped, read-only Docker containers to analyze untrusted payloads safely.
+* 🔐 **[cryptX](https://github.com/SakthiS-oss/cryptX)**: Air-gapped hardware crypto wallet on Arduino with EEPROM physical zeroization and real-time MongoDB transaction velocity monitoring via the Gemini API.
+* 🧪 **[NukeSandbox](https://github.com/SakthiS-oss/NukeSandbox)**: Automated cloud-native malware triage platform that runs untrusted payloads in capability-dropped, read-only Docker containers.
 
 ---
 
@@ -49,5 +48,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="right">Last updated: 2026-08-10</p>
