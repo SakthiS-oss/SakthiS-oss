@@ -32,12 +32,6 @@ A hardware crypto wallet built around a compromised-host threat model.
 ## 💼 Currently
 **DevOps Engineer @ MITRE** (via UMD App Dev Club): containerizing and designing AWS infrastructure for SCOUT, a cyber-policy platform for State Department missions, and building a RAG agent that maps global cyber policies by country and category.
 
-## 🏆 Highlights
-- 🥇 1st Place, Augusta University CTF · 🥈 2nd Place, National Cyber League
-- 🏅 Bitcamp 2026 Winner · GeorgeHacks Winner
-- 📜 GIAC GSEC · AWS Solutions Architect Associate · Azure Administrator (AZ-104)
-
----
 
 ## 🛠️ Tech Stack
 
