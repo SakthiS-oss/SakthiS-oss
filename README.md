@@ -2,13 +2,11 @@
 
 **Computer Engineering @ University of Maryland · Cybersecurity Specialization**
 
-I build systems where security, cloud, hardware, and AI work together, from private keys that never leave a microcontroller to sandboxes that let an LLM read hostile web content safely.
+I build systems where Linux, networking, and security meet
 
-- 🔐 **Security:** threat modeling, SSRF and prompt-injection defense, detection mapped to MITRE ATT&CK
-- ☁️ **Cloud:** AWS, Azure, Terraform, Kubernetes, and CI/CD pipelines that sign what they ship
-- 📟 **Hardware:** embedded C++ and how hardware draws trust boundaries
-- 🤖 **AI/ML:** RAG agents, LLM-powered triage, and keeping models safe from untrusted input
-- 🛠️ **Software:** full-stack apps with TypeScript, React, and Python
+🐧 Systems: Linux, networking (DNS/DHCP, Wireshark), AWS, Azure, Terraform, Kubernetes, and CI/CD pipelines
+🔐 Security: threat modeling, SSRF and prompt-injection defense, and detection mapped to MITRE ATT&CK and the NIST Cybersecurity Framework, 
+🤖 AI/ML: RAG agents, LLM-powered triage, and keeping models safe from untrusted input
 
 ---
 
