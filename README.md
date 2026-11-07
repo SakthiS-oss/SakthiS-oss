@@ -6,7 +6,7 @@ I build systems where Linux, networking, and security meet
 
 🐧 Systems: Linux, networking, AWS, Azure, Terraform, Kubernetes, and CI/CD pipelines
 
-🔐 Security: threat modeling, SSRF and prompt-injection defense, and detection mapped to MITRE ATT&CK and the NIST Cybersecurity Framework, 
+🔐 Security: threat modeling, firewall policy and packet-level troubleshooting, SSRF and prompt-injection defense
 
 🤖 AI/ML: RAG agents, LLM-powered triage, and keeping models safe from untrusted input
 
