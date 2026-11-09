@@ -2,7 +2,6 @@
 
 **Computer Engineering @ University of Maryland · Cybersecurity Specialization**
 
-I build systems where Linux, networking, and security meet
 
 🐧 Systems: Linux, networking, AWS, Azure, Terraform, Kubernetes, and CI/CD pipelines
 
@@ -12,22 +11,28 @@ I build systems where Linux, networking, and security meet
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+🧪 Homelab · Linux × Networking × Security
 
-### 🧪 [NukeSandbox](https://github.com/SakthiS-oss/NukeSandbox) · Security × Cloud × AI
+Two RHEL 10 VMs: a server acting as router, DHCP and DNS server, and NAT gateway for an isolated network, with a client behind it. Each challenge breaks one piece on purpose, then traces the failure with packet captures, kernel counters, and firewall logs.
+
+Removed forwarding and NAT, and traced exactly where packets stopped and why
+Measured TCP collapsing under packet loss: 230× slower at 10% loss, with 91% of one transfer spent stalled on retransmission timeouts
+Built a path MTU black hole that broke TLS handshakes, then fixed it with TCP MTU probing (3.9 s) and MSS clamping (0.19 s)
+🧪 NukeSandbox · Security × Cloud × AI
+
 A URL triage service that analyzes links in disposable, capability-dropped, read-only containers and turns the telemetry into plain-English reports with Gemini.
-- Blocks SSRF with DNS pinning and per-hop redirect checks against private and cloud-metadata addresses
-- Fences hostile page content off from the LLM to prevent prompt injection
-- Ships through GitHub Actions with Semgrep, Trivy, SBOMs, and Cosign signing, then deploys to Azure Container Apps via Terraform with OIDC and no stored secrets
 
-### 🔐 [cryptX](https://github.com/SakthiS-oss/cryptX) · Hardware × Security × AI
-A hardware crypto wallet built around a compromised-host threat model.
-🏆 **Best Capital One Financial Hack + 2nd in App Dev, Bitcamp 2026**
-- Generates BIP-39 seeds and stores private keys on the microcontroller, so key material never touches the host
-- Authenticates devices with a SipHash challenge-response and requires physical on-device confirmation for every transaction
-- Flags potentially compromised devices with a Gemini + MongoDB anomaly detection pipeline mapped to MITRE ATT&CK
+Blocks SSRF with DNS pinning and per-hop redirect checks against private and cloud-metadata addresses
+Fences hostile page content off from the LLM to prevent prompt injection
+Ships through GitHub Actions with Semgrep, Trivy, SBOMs, and Cosign signing, then deploys to Azure Container Apps via Terraform with OIDC and no stored secrets
+🔐 cryptX · Hardware × Security × AI
 
----
+A hardware crypto wallet built around a compromised-host threat model. Team project; my contributions are listed in the repo.
+
+Generates BIP-39 seeds and stores private keys on the microcontroller, so key material never touches the host
+Authenticates devices with a SipHash challenge-response and requires physical on-device confirmation for every transaction
+Flags potentially compromised devices with a Gemini + MongoDB anomaly detection pipeline mapped to MITRE ATT&CK
 
 ## 💼 Currently
 **DevOps Engineer @ MITRE** (via UMD App Dev Club): containerizing and designing AWS infrastructure for SCOUT, a cyber-policy platform for State Department missions, and building a RAG agent that maps global cyber policies by country and category.
