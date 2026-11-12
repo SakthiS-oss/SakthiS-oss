@@ -16,6 +16,7 @@ A URL triage service that opens suspicious links in disposable, locked-down cont
 Runs each link in a capability-dropped, read-only container, with SSRF defenses like DNS pinning and per-hop redirect checks
 Ships through GitHub Actions with pytest, Semgrep, and Trivy gates, then deploys to Azure Container Apps via Terraform and OIDC with no stored credentials
 An alternate Kubernetes path adds Cosign signing, SPDX SBOMs, and Prometheus/Grafana monitoring
+
 🧪 Homelab · Linux × Networking
 
 Two RHEL 10 VMs where one server is the other's entire network: router, firewall, DHCP, DNS, and NAT. Each challenge breaks one piece on purpose, then traces the failure with packet captures and logs.
@@ -23,13 +24,6 @@ Two RHEL 10 VMs where one server is the other's entire network: router, firewall
 Traced where packets stopped when forwarding and NAT were removed, and why one failed instantly while the other timed out
 Measured TCP slowing ~230× at 10% packet loss, with most of the time spent waiting on retransmission timeouts
 Fixed a path MTU black hole that broke TLS handshakes, cutting a failing upload from a 15 s timeout to 0.19 s
-🔐 cryptX · Hardware × Web × AI
-
-A hardware crypto wallet and dashboard built at Bitcamp 2026 (Best Capital One Hack). Team project; my contributions are listed in the repo.
-
-Arduino-based wallet that keeps private keys on-chip and requires a physical button press for every transaction
-Next.js dashboard connected over WebSockets, with device authentication via challenge-response
-Gemini + MongoDB pipeline that flags suspicious device activity and maps it to MITRE ATT&CK
 
 ## 💼 Currently
 **DevOps Engineer @ MITRE** (via UMD App Dev Club): containerizing and designing AWS infrastructure for SCOUT, a cyber-policy platform for State Department missions, and building a RAG agent that maps global cyber policies by country and category.
