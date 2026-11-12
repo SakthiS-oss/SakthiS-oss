@@ -65,13 +65,3 @@ Gemini + MongoDB pipeline that flags suspicious device activity and maps it to M
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SakthiS-oss&layout=compact&theme=dracula&count_private=true&hide_progress=false" alt="Top Languages" />
 </p>
-
-## 📫 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/sakthi-sadayappan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sakthi.sadayappan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
